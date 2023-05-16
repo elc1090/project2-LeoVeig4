@@ -12,7 +12,7 @@
 
 > Opcional: você pode alterar a formatação do README, mas mantenha todas as informações solicitadas
 
-![Screenshot do projeto](Captura\ de\ tela\ 2023-05-16\ 115238.png "Screenshot do projeto").
+![Screenshot do projeto](captura.png "Screenshot do projeto").
 
 
 #### Descrição
